@@ -3,4 +3,4 @@
   yang kesekian kalinya setelah di update :D
   
 # link web :
-  https://ramdhanndyn.github.io
+  https://ramdhanndyn.github.io/my-web-portofolio/
