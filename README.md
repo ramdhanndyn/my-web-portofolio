@@ -1,6 +1,5 @@
 # my-website
   ini adalah code website portofolio saya
-  yang kesekian kalinya setelah di update...
-  :D
+  yang kesekian kalinya setelah di update :D
   
 # link web :
